@@ -1,2 +1,11 @@
 202101892 신수민
 컴퓨터공학부
+
+
+#include<stdio.h>
+
+int main(void){
+printf("202101892 신수민");
+printf("컴퓨터공학부");
+return 0;
+}
